@@ -1,0 +1,11 @@
+{
+  "name": "montyHall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EmmanuelRatier/montyHall.git",
+  "author": "EmmanuelRatier <ratier.e09@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
